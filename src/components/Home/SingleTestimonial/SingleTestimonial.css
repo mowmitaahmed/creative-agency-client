@@ -1,0 +1,38 @@
+/* Single Testimonial CSS */
+.singleTestimonial{
+    width: 370px;
+    height: 212px;
+    border: 1px solid #BFBFBF;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.singleTestimonial img{
+    width: 64px;
+    height: 64px;
+}
+.testimonialSide{
+    /* width: 115px;
+    height: 54px; */
+}
+.testimonialSide h5{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+.testimonialSide h6{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+.testimonialLower p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.005em;
+    color: #707070;
+}

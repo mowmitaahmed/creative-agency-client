@@ -1,0 +1,41 @@
+
+/* Add Service Form CSS */
+.addServiceForm{
+    border-radius: 20px;
+}
+.addServiceLabel{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500!important;
+    font-size: 16px!important;
+    line-height: 24px!important;
+    color: #232323!important;
+}
+.addServiceInput{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #C9C9C9;
+}
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload-service {
+    background: #DEFFED!important;
+    border: 1px solid #009444;
+    box-sizing: border-box!important;
+    border-radius: 5px!important;
+    /* width: 271px!important; */
+    display: inline-block;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #009444;
+    width: 160px!important;
+}

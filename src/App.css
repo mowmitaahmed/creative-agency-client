@@ -1,38 +1,78 @@
-.App {
-  text-align: center;
+body{
+    font-family: 'Poppins', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Area Heading */
+.AreaTitle{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 43px;
+    text-align: center!important;
+    letter-spacing: 0.396px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Text Colors */
+.text-green{
+    color: #7AB259;
+}
+.text-black{
+    color: #2D2D2D;
+}
+.text-done{
+    color: #009444;
+}
+.text-pending{
+    color: #FF4545;
+}
+.text-onGoing{
+    color: #FFBD3E;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* Buttons */
+.btn-brand{
+    background: #111430;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    padding: 10px 48px;
 }
-
-.App-link {
-  color: #61dafb;
+.btn.focus, .btn:focus {
+    outline: 0;
+    box-shadow: none!important;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn:hover {
+    color: #fff;
+}
+.btn-admin{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #C9C9C9;
+    padding: 12px 30px;
+    background: #009444;
+}
+.btn-admin:hover{
+    color: #C9C9C9;
+    background-color: #009444!important;
+    border-color: #009444!important;
+}
+.btn-onGoing{
+    background: #ffbb3e7c;
+    border-radius: 5px;
+    width: 108px;
+    height: 40px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #fbb229;
+}
+.btn-onGoing:hover{
+    color: #fbb229;
 }

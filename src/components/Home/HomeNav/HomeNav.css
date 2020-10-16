@@ -1,0 +1,19 @@
+/* Logo */
+.logo{
+    width: 146px;
+    height: 47px;
+}
+
+/* Navbar CSS */
+.nav-link{
+    font-size: 14px;
+    letter-spacing: .4px;
+    line-height: 9px;
+    font-style: normal;
+    font-weight: 400;
+    color:#474747!important;
+}
+.nav-item.active > .nav-link{
+    font-weight: 600;
+    letter-spacing: 0.396px;
+}

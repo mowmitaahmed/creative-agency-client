@@ -1,0 +1,53 @@
+
+/* Sidebar CSS for Customer */
+.customerSidebar{
+    background: white;
+    height: 100vh;
+}
+
+/* Order Form */
+.form-control{
+    font-size: 16px!important;
+    font-weight: 300!important;
+    line-height: 24px!important;
+    letter-spacing: 0.396px!important;
+    color: rgba(0, 0, 0, 0.3)!important;
+    background: #FFFFFF!important;
+    border: 1px solid rgba(0, 0, 0, 0.1)!important;
+    box-sizing: border-box!important;
+    border-radius: 4px!important;
+    padding: 22px 15px!important;
+}
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    background: #DEFFED!important;
+    border: 1px solid #009444;
+    box-sizing: border-box!important;
+    border-radius: 5px!important;
+    /* width: 271px!important; */
+    display: inline-block;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #009444;
+    width: 100%;
+}
+.orderSelect{
+    background: #FFFFFF;
+    border-radius: 4px;
+    width: 100%;
+    padding: 12px 15px!important;
+    border: 1px solid rgba(0, 0, 0, 0.1)!important;
+    box-sizing: border-box!important;
+    font-size: 16px!important;
+    font-weight: 300!important;
+    line-height: 24px!important;
+    letter-spacing: 0.396px!important;
+    color: rgba(0, 0, 0, 0.7)!important;
+}

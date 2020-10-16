@@ -1,0 +1,20 @@
+.logoArea img{
+    width: 150px;
+    height: 47px;
+}
+.orderPageTitle{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    color: #0C0C0C;
+}
+.orderPageProfileName{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0C0C0C;
+}

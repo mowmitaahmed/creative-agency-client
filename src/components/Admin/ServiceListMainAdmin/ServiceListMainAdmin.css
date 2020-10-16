@@ -1,0 +1,52 @@
+/* Order List Table CSS */
+table{
+    border-spacing: 0;
+    border-collapse: collapse;
+    border-style: hidden;
+    border-radius:20px;
+}
+.serviceListTable{
+    background: white;
+    border-radius: 10px;
+}
+.serviceTableHeader{
+    background: #F5F6FA;
+    border-radius: 13px!important;
+}
+.serviceTableHeader tr{
+    background: #F5F6FA;
+    border-radius: 13px!important;
+}
+.serviceTableHeader tr th{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #686868;
+}
+.serviceTableBody tr td{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.btn-select , select option{
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 0px solid;
+    padding: .375rem .75rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+select:focus {
+    outline: none;
+}

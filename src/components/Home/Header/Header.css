@@ -1,0 +1,16 @@
+/* Header CSS */
+.headerArea{
+    background: #FBD062;
+    min-height: 684.53px;
+    position: relative;
+}
+.headerArea::before{
+    content:"";
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    height:130px;
+    background:linear-gradient(to bottom right,transparent 50%,white 50.5%);
+    z-index: 9;
+}
