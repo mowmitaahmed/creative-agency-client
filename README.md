@@ -6,19 +6,19 @@ A Full Stack Creative Agency App where users can place an order, can view own or
 
 ## `Features`
 * Place an order.
-⋅⋅* View own order list.
-⋅⋅* Leave reviews.
-⋅⋅* Admin can view order lists.
-⋅⋅* Admin can view order lists ordered by users.
-⋅⋅* Add new services.
+* View own order list.
+* Leave reviews.
+* Admin can view order lists.
+* Admin can view order lists ordered by users.
+* Add new services.
 
 ## `Front-end Thechnology` :
-⋅⋅* React.js
-⋅⋅* Bootstrap4
-⋅⋅* CSS3
+* React.js
+* Bootstrap4
+* CSS3
 
 ## `Back-end Technology`
-⋅⋅* Node.js
-⋅⋅* Express.js
-⋅⋅* MongoDB
+* Node.js
+* Express.js
+* MongoDB
 
