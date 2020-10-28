@@ -5,7 +5,7 @@ A Full Stack Creative Agency App where users can place an order, can view own or
 [Live Website](https://creative-agency-35c16.firebaseapp.com/) | [Live API Server](https://desolate-oasis-15440.herokuapp.com/)
 
 ## `Features`
-⋅⋅* Place an order.
+⋅⋅* `Place an order.`
 ⋅⋅* View own order list.
 ⋅⋅* Leave reviews.
 ⋅⋅* Admin can view order lists.
