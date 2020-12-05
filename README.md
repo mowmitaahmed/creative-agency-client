@@ -5,15 +5,15 @@ A Full Stack Creative Agency App where users can place an order, can view own or
 [Live Website](https://creative-agency-35c16.firebaseapp.com/) | [Live API Server](https://desolate-oasis-15440.herokuapp.com/)
 
 ## `Features`
-* Place an order.
-* View own order list.
-* Leave reviews.
-* Admin can view order lists.
-* Admin can view order lists ordered by users.
-* Add new services.
+* Admin can change order’s status to notify the clients about the
+progress.
+* Authenticated user can order and check services.
+*  Admin can add new services and new admins.
 
 ## `Front-end Thechnology` :
 * React.js
+* React Router
+* React Hook Form
 * Bootstrap4
 * CSS3
 
@@ -21,4 +21,10 @@ A Full Stack Creative Agency App where users can place an order, can view own or
 * Node.js
 * Express.js
 * MongoDB
+
+## `Hosting`
+* Firebase
+
+## `Authentication`
+* Firebase 
 
