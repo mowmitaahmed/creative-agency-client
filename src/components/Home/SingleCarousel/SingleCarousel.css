@@ -1,0 +1,23 @@
+/* Single Carousel Css */
+.singleCarousel{
+    width: 465.49px;
+    height: 334.7px;
+    border-radius: 8.23879px;
+}
+.rec-dot,.ikyGAt{
+    background: rgb(255, 255, 255, .1)!important;
+}
+.rec-dot.rec-dot_active,.ikyGAt.rec-dot_active{
+    background: #FBD062!important;
+}
+.ikyGAt:hover, .ikyGAt:focus,.ikyGAt.rec-dot_active:focus,.rec-dot_active {
+    box-shadow: none!important;
+}
+.brcpxa:hover, .brcpxa:focus {
+    cursor: pointer;
+    box-shadow: none!important;
+}
+button:focus {
+    outline: none!important;
+    outline: none!important;
+}

@@ -1,0 +1,48 @@
+.footerArea{
+    background: #FBD062;
+}
+
+/* Footer Details */
+.footerDetails h2{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 43px;
+    letter-spacing: 0.396px;
+    color: #2D2D2D;
+}
+.footerDetails p{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.396px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+/* Footer Form */
+.form-control{
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1)!important;
+    box-sizing: border-box!important;
+    border-radius: 4px!important;
+    font-family: Poppins!important;
+    font-weight: 300!important;
+    font-size: 18px!important;
+    line-height: 24px!important;
+    letter-spacing: 0.396px!important;
+    color: rgba(0, 0, 0, 0.3)!important;
+}
+.form-control:focus {
+    outline: 0;
+    box-shadow: none!important;
+}
+
+/* Bottom Footer */
+.footerLower p{
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.396px;
+    color: rgba(0, 0, 0, 0.7);
+}

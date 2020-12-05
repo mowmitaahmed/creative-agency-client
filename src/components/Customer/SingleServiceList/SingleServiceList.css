@@ -1,0 +1,58 @@
+/* Customer Order List CSS */
+.singleServiceList{
+    background: #FFFFFF;
+    border-radius: 20px;
+    width: 415px;
+    height: 254px;
+}
+.serviceListUpper img{
+    width: 74px;
+    height: 74px;
+}
+.btn-pending{
+    background: #FFE3E3;
+    border-radius: 5px;
+    width: 108px;
+    height: 40px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FF4545; 
+}
+.btn-pending:hover{
+    color: #FF4545; 
+}
+.btn-done{
+    background: #C6FFE0;
+    border-radius: 5px;
+    width: 108px;
+    height: 40px;font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #009444;
+}
+.btn-done:hover{
+    color: #009444;
+}
+.serviceListLower h5{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 16px;
+    letter-spacing: 0.396px;
+    color: #111430;    
+}
+.serviceListLower p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.396px;
+    color: rgba(0, 0, 0, 0.7);
+}
